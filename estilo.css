@@ -9,7 +9,7 @@ header{
     text-align: center;
 
 }
-.principal{
+*{
     touch-action: manipulation;
    
     
@@ -56,7 +56,7 @@ footer{
 }
 
 @media screen and (max-width: 480px){
-    .principal{
+    *{
         touch-action: manipulation;
         max-width: 100%;
         margin: 0 auto;
